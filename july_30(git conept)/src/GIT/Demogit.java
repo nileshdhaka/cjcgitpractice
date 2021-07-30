@@ -7,4 +7,9 @@ public class Demogit {
 		
 	}
 	
+	public void pull()
+	{
+		System.out.println("pull file from github")
+	}
+	
 }
