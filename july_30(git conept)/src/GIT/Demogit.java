@@ -12,4 +12,9 @@ public class Demogit {
 		System.out.println("pull file from github");
 	}
 	
+	public void name() 
+	{
+		System.out.println("i am shaktiman");
+	}
+	
 }
