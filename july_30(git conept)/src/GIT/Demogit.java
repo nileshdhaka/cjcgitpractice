@@ -15,6 +15,7 @@ public class Demogit {
 	public void name() 
 	{
 		System.out.println("i am shaktiman");
+		System.out.println("darshan bhadya");
 	}
 	
 }
